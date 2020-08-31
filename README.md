@@ -1,2 +1,2 @@
-# Weather-Temprature-Estimator
+# Weather-Estimator
 Estimating temperature through Web Scraping
